@@ -1,1 +1,3 @@
-# 2026-08-A01_A-Line-in-the-Sand
+# A Line in the Sand
+
+ML: Assignment 01. Details on Canvas.
